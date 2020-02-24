@@ -18,6 +18,8 @@ Contains:
 
 -All Tools and Key Items
 
+-All Karmic Transformers
+
 -All Fishes
 
 -All Treasures
