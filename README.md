@@ -12,7 +12,7 @@ Contains:
 
 -Debug Info
 
--All Techniques and Brushes (Except for Sunrise, Bomb Upgrades and Slash Upgrades)
+-All Dojo Skills and Brushes (Except for Sunrise, Bomb Upgrades and Slash Upgrades)
 
 -All Divine Instruments and Holy Artifacts
 
