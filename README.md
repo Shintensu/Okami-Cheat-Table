@@ -10,7 +10,7 @@ Contains:
 
 -Basic Player Stats and Currencies
 
--Debug Info
+-Lots of Debug Info
 
 -All Dojo Skills and Brushes (Except for Sunrise, Bomb Upgrades and Slash Upgrades)
 
