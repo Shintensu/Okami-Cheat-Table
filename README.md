@@ -26,3 +26,5 @@ Contains:
 
 -All Stray Beads
 
+-Some of the Flags for Collectibles
+
